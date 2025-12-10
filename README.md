@@ -54,11 +54,6 @@
   <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ghidra-DF0000?style=for-the-badge&logo=ghidra&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-</p>
 <div align="center">
   <a href="https://tryhackme.com/p/cyb3rPh03n1x">
     <img src="https://tryhackme-badges.s3.amazonaws.com/cyb3rPh03n1x.png" alt="TryHackMe Stats" />
