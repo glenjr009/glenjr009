@@ -98,7 +98,7 @@
 ### 📡 Encrypted Uplink
 
 <div align="center">
-  <a href="https://linkedin.com/in/glen-fernandes-047407258">
+  <a href="https://linkedin.com/in/glen-ferns/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
