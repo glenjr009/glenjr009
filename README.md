@@ -56,10 +56,9 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/cyb3rPh03n1x">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/cyb3rPh03n1x.png" alt="TryHackMe Stats" />
-  </a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/cyb3rPh03n1x.png" alt="Your Image Badge" />
 </div>
-
+  </a>
 
 
 ### 📜 Mission Clearances
